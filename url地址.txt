@@ -1,0 +1,18 @@
+category	category_count
+information technology 	24
+media sharing 	19
+business 	11
+mobile communications 	9
+unknown 	7
+entertainment 	7
+peer-to-peer file sharing 	6
+misc 	6
+peer to peer and torrents 	5
+Peer-to-Peer (P2P) 	4
+general business 	4
+blogs 	4
+business and economy 	4
+games 	4
+application and software download 	3
+computersandsoftware 	3
+filesharing 	3
